@@ -1,0 +1,13 @@
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.exe
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.deps.json
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.runtimeconfig.json
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.runtimeconfig.dev.json
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.dll
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\bin\Release\netcoreapp3.1\CashMaster.pdb
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.AssemblyInfo.cs
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.dll
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.pdb
+C:\Users\Elizabeth\source\repos\CashMaster\CashMaster\obj\Release\netcoreapp3.1\CashMaster.genruntimeconfig.cache
